@@ -134,3 +134,8 @@ This repository, including all its contents, sub-projects, modules, and componen
 - [Ukrainian / Українська](https://github.com/HeyPuter/puter/blob/main/doc/i18n/README.ua.md)
 - [Urdu / اردو](https://github.com/HeyPuter/puter/blob/main/doc/i18n/README.ur.md)
 - [Vietnamese / Tiếng Việt](https://github.com/HeyPuter/puter/blob/main/doc/i18n/README.vi.md)
+
+
+---memo
+source /home/momoi/.nvm/nvm.sh && nvm use v24.12.0 && npm install
+source /home/momoi/.nvm/nvm.sh && nvm use v24.12.0 && npm rebuild better-sqlite3 && npm start
